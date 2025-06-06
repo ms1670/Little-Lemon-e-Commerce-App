@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LittleLemon_compose</string>
+    <string name="name">Little Lemon</string>
+    <string name="order">Order Take Away</string>
+    <string name="chicago">Chicago</string>
+    <string name="description1">Its The Best Restaurant in The Chicago with Very Tasty Foods</string>
+    <string name="weekly_special">Weekly Special Dishes</string>
+    <string name="dish1">Greek Salad</string>
+    <string name="dish1_des">this is most teasted Salad in the Greek, checkout the details below to learn more about dish instructions</string>
+    <string name="dish2">Burger</string>
+    <string name="dish2_des">this is most Delicuos burger in the Greek, click know more to learn more about dish instructions</string>
+
+    <string name="title">Little Lemon</string>
+    <string name="location">Chicago</string>
+    <string name="app_description">We are a family owned Mediterranean restaurant, focused on traditional recipes served with a modern twist.</string>
+    <string name="order_btn_text">View our Menu</string>
+    <string name="order_for_takeaway">ORDER FOR TAKEAWAY</string>
+
+</resources>
